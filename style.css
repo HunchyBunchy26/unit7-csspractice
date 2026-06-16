@@ -1,10 +1,10 @@
 *{
     box-sizing: border-box;
-    font-size: 25px;
+    font-size: 18px;
 }
 
 body {
-    font-family: "Beau Rivage", cursive, serif;    
+    font-family: font-family: "Niconne", cursive, serif;    
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -55,4 +55,14 @@ ul {
 
 li {
     margin-bottom: 0.5rem;
+}
+
+a {
+    color: slateblue;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    text-decoration: underline;
+    color: orange;
 }
